@@ -35,4 +35,4 @@
         instance_type = "t2.micro" *//this is instance type of ec2//*
     }
 
-**Apart from this we can add security groups if needed specifically. Also we can add key pair as well, tags also added to the security groups.**
+**Apart from this we can add security groups if needed specifically. Also we can add key pair as well, tags also added to the ec2 using terraform.**
